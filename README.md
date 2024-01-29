@@ -1,6 +1,6 @@
 ### Hi there 👋
-### I'ḿ Yullo! 
-### A Passionate Software Engineer
+### A Passionate Engineer
+
 <!--
 **yullobomfim/yullobomfim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
